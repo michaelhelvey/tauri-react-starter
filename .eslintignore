@@ -1,0 +1,5 @@
+.eslintrc.*
+prettier.config.*
+vite.config.ts
+vitest.config.ts
+tailwind.config.cjs
